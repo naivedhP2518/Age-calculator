@@ -3,7 +3,7 @@
 A premium, glassmorphic Age Calculator built with modern web technologies. This application provides a high-end user experience with smooth animations, dynamic background blobs, and a sequential calendar selection flow.
 
 <p align="center">
-  <a href="Paste hear" target="_blank">
+  <a href="https://naivedhp2518.github.io/Age-calculator/" target="_blank">
     <img src="https://img.shields.io/badge/Live%20Demo-Visit%20Project-ff00ff?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Live Demo">
   </a>
 </p>
