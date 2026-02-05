@@ -586,6 +586,17 @@ input[type="number"]:focus {
 }
 
 @media (max-width: 480px) {
+  body {
+    align-items: flex-start;
+    padding: 40px 10px;
+    height: auto;
+    overflow-y: auto;
+  }
+
+  .container {
+    padding: 10px;
+  }
+
   .glass-card {
     padding: 30px 20px;
   }
